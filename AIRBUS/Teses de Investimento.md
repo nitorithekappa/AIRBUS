@@ -1,0 +1,3 @@
+#airbus
+
+![[Investment Thesis]]
