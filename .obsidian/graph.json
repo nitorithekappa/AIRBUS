@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "claude",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -85,9 +85,9 @@
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
   "centerStrength": 0,
-  "repelStrength": 10,
+  "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.343086416691635,
-  "close": true
+  "scale": 0.21002006420460673,
+  "close": false
 }
